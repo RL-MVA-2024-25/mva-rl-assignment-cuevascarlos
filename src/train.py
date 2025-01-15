@@ -8,7 +8,6 @@ from env_hiv import HIVPatient
 from copy import deepcopy
 from tqdm import tqdm
 #import wandb
-import matplotlib.pyplot as plt
 import os
 
 class ReplayBuffer:
